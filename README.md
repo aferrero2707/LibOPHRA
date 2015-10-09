@@ -1,2 +1,2 @@
-# LibOPHRA
-*O*pen *PH*oto *R*etouching *A*lgorithms library
+# OPHRA
+**O**pen **PH**oto **R**etouching **A**lgorithms library
